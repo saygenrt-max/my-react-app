@@ -1,0 +1,8 @@
+
+{
+  "name": "AdEarn Pro - Bengali Ad Earning Platform",
+  "description": "A professional and user-friendly platform where users can invest in packages, view ads to earn money, and withdraw earnings through popular local payment methods like bKash and Nagad.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
